@@ -128,9 +128,9 @@ img {
 
 #ltrGuessed {
     border: solid 2px;
-    margin-top: 20px;
+    /* margin-top: 20px; */
     padding-top: 10px;
-    padding-bottom: 20px;
+    padding-bottom: 15px;
 
 }
 
