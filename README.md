@@ -1,4 +1,8 @@
 # Hangman-Game
+<<<<<<< HEAD
+=======
+
+>>>>>>> cab82942a5f948f36034c256c0cae71cf759ed47
 * Overview
 
 Guess That Movie-Themed-Hangman-Game
@@ -9,7 +13,11 @@ Getting Started
 
 Click on the following link to preview the completed assignment.
 
+<<<<<<< HEAD
 https://ImanGurey.github.oi/Hangman-Game/
+=======
+https://ImanGurey.github.oi/Hangman-Game
+>>>>>>> cab82942a5f948f36034c256c0cae71cf759ed47
 
 * Build With:
 * HTML5
