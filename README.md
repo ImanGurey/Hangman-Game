@@ -10,7 +10,7 @@ Getting Started
 
 Click on the following link to preview the completed assignment.
 
-https://imangurey.github.io/Hangman-Game/.
+https://imangurey.github.io/Hangman-Game/
 
 * Build With:
 * HTML5
