@@ -1,6 +1,5 @@
 # Hangman-Game
 
-# Hangman-Game
 * Overview
 Guess That Movie-Themed-Hangman-Game
 
@@ -13,6 +12,6 @@ Click on the following link to preview the completed assignment.
 https://ImanGurey.github.oi/Hangman-Game/
 
 * Build With:
-HTML5
-CSS3
-JavaScript
+* HTML5
+* CSS3
+* JavaScript
