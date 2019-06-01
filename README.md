@@ -1,6 +1,4 @@
 # Hangman-Game
-<<<<<<< HEAD
-=======
 
 >>>>>>> cab82942a5f948f36034c256c0cae71cf759ed47
 * Overview
