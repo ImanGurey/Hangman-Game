@@ -1,5 +1,5 @@
 // One-word movie titles to guess
-var movieTitles = ['ocean 8', 'lion king', 'black panther', 'halloween', 'crazy rich asian', 'the post', 'the shape of water', 'titanic'];
+var movieTitles = ['rocky', 'grease', 'casablance', 'halloween', 'bambi', '', 'jaw','limitless', 'titanic'];
 
 // all 26 letters in the alphabet for random input
 var alphabetArray = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
